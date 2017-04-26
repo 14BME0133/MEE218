@@ -7,5 +7,5 @@ MEE218 – HARDWARE PROJECT
 
 “Embedded In-Vehicle Authorization”
 
-Project Guide [Prof. Ashok B.]
-Reviewer [Prof. Sundaramali ]
+### Project Guide [Prof. Ashok B.]
+### Reviewer [Prof. Sundaramali ]
