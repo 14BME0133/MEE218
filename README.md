@@ -1,5 +1,5 @@
 ## Welcome to MEE218:Hardware Project by @14bme0133
-# Embedded In-Vehicle Authorization (atop Automotive-grade Linux)
+# Embedded In-Vehicle Authorization (EiVA)
 
 
 ## Introduction
