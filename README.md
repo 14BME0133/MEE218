@@ -4,6 +4,11 @@
 
 ## Introduction
 
+To provide at-par glimpse in a TL;DR, refer the imagery below >> 
+![](MEE218_uno_to_fsen.jpg)
+`Touch` >> `Swirlkey` >> `Ignition`
+
+
 ### About this project
 
 :
